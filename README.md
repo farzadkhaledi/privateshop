@@ -1,5 +1,5 @@
 # Private Shop WHMCS
-Add **Private Shop** button in WHMCS.
+**Private Shop** module allows you to make WHMCS private store and accessible just after client login..
 
 ![Screenshot](clientarea.png)
 
