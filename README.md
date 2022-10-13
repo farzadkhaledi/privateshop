@@ -31,7 +31,7 @@ privateshop/
 ├── index.php
 ├── whmcs.json
 ├── logo.png
-├── lang/
+└── lang/
     ├── index.php
     └── english.php
 </pre>
