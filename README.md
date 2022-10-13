@@ -7,6 +7,8 @@
 
 - Disable Guest Clients Ordering
 - Disable New Client Registrations
+- Hide Store Menu
+- Force clients to login
 - Working with WHMCS 7.x and 8.x
 - Without any template changes
 - Working with any WHMCS templates
