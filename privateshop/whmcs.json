@@ -1,0 +1,29 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "privateshop",
+    "version": "1.0",
+    "license": "mit",
+    "category": "other",
+    "description": {
+        "name": "Private Shop",
+        "tagline": "Private Shop for WHMCS",
+        "long": "Private Shop module allows you to make WHMCS private store and accessible just after client login.",
+        "features": [
+            "Client Area: Private Shop module allows you to make WHMCS private store and accessible just after client login."
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "docs_url": "https:\/\/www.github.com\/farzadkhaledi\/privateshop",
+        "learn_more": "https:\/\/www.github.com\/farzadkhaledi\/privateshop"
+    },
+    "authors": [
+        {
+            "name": "Farzad Khaledi",
+            "homepage": "https:\/\/www.khaledi.website\/"
+        }
+    ]
+}
